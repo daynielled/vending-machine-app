@@ -1,0 +1,19 @@
+/* NavBar.css */
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .NavBar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .NavBar a:hover {
+    color: #ffcc00;
+  }
+  
